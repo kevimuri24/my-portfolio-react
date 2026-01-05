@@ -1,3 +1,19 @@
+
+@font-face {
+  font-family: Centra;
+  src: url ('./assets/fonts/centra-Bold.ttf');
+  font-weight: 700;
+}
+@font-face {
+  font-family: Centra;
+  src: url ('./assets/fonts/centra-Medium.ttf');
+  font-weight: 500;
+}
+@font-face {
+  font-family: Centra;
+  src: url ('./assets/fonts/centra-Book.ttf');
+  font-weight: 400;
+}
 #root {
   max-width: 1280px;
   margin: 0 auto;
