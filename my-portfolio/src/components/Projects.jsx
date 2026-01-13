@@ -55,7 +55,7 @@ export const Projects = () => {
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus nesciunt saepe dolorum at, dolore laboriosam beatae 
                         rerum iusto animi labore, nihil, laborum architecto ex qui vitae! Consequatur quo sunt quaerat.</p>
                         <Tab.Container id="project-tabs" defaultActiveKey="first">
-                        <Nav variant="pills" defaultActiveKey="/home">
+                        <Nav variant="pills" defaultActiveKey="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                         <Nav.Item>
                             <Nav.Link eventKey="first">Tab one </Nav.Link>
                         </Nav.Item>
