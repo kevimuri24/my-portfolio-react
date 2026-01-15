@@ -6,7 +6,7 @@ A modern, responsive portfolio website built with React and Bootstrap. This proj
 
 This is a practice project created to learn React, Bootstrap, and full-stack development concepts. The website features a clean, professional design with smooth animations and a working contact form that sends emails directly to your inbox.
 
-**Tutorial Credit:** This project was built following [this YouTube tutorial](https://www.youtube.com/watch?v=hYv6BM2fWd8&t=1411s) by [Tutorial Creator Name].
+**Tutorial Credit:** This project was built following [this YouTube tutorial](https://www.youtube.com/watch?v=hYv6BM2fWd8&t=1411s) by Webdecoded.
 
 ## ✨ Features
 
